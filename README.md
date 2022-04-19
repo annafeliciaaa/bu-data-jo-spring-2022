@@ -1,2 +1,2 @@
 # bu-data-jo-spring-2022
-practice
+# H1 practice
